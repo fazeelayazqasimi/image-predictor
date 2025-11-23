@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": 1763855477,
+    "num_classes": 2,
+    "num_images": 103,
+    "accuracy": {
+      "logistic": 0.9523809523809523,
+      "rf": 0.9523809523809523,
+      "cnn": 0.9047619104385376
+    },
+    "classes": [
+      "Cow",
+      "Snake"
+    ]
+  }
+]
